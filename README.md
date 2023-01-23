@@ -2,4 +2,6 @@
 
 Master Student at the TUM in Electrical Engineering and Information Technology
 
-https://PaulusElektrus.github.io/
+I am interested in building both Hardware & Software, love Python programming and focused on power engineering and the "Energiewende".
+
+See my [Repositories](https://github.com/PaulusElektrus?tab=repositories).

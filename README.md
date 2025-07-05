@@ -2,7 +2,7 @@
 
 M.Sc. (TUM) in Electrical Engineering and Information Technology.
 
-I am interested in building both Hardware & Software, love Python & Microcontroller programming and focused on power engineering and the "Energiewende".
+I am interested in building both Hardware & Software, love Python & Microcontroller programming and focused on smart home & HAM radio at the moment.
 
 Currently working as Software Engineer.
 
